@@ -1,0 +1,6 @@
+*.pdf
+*.docx
+bin
+.classpath
+.project
+.settings
